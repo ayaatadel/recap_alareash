@@ -1,0 +1,38 @@
+==============> PHP ===> Server side    ===> connection with data 
+                                        ===> Api
+
+
+client side    server side
+Front          BackEnd
+
+
+
+
+client -----> Browser (wSchool)                   
+ request=====> Chrome (www.W3School.com)   ==> server    (Server side)
+
+                   html     <===== response
+                    404 (Not fonund)
+                    500 ===> SEVER ERRor
+
+
+
+
+======= Rasums ===>   8.5  ====> oop , authentication  , api 
+
+Frameworks ==> wordpress , Laravel , sympony
+
+
+
+
+=======================> server =======> Apache 
+     Xamp     ===>
+     wamp       ==> windows
+     mamp      ==> mac
+     lamp      ==> linux
+
+      =====================> htdocs ==============>  
+        
+     laragon   ==> windows          ====> pc ===> link
+
+     =======>    
