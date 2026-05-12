@@ -1,0 +1,15 @@
+====> implemnet code 
+---> hirearchial inhertance 
+-----> static method (code )
+
+======= bonous (5 degree)
+form login , register 
+====>
+while user (register) ===> store in data file
+login ==> check (data ) ===> is in file data -==> home.php
+error ===> error message (you must login first)
+ ===>
+
+
+
+ ==========> commnads cruds sql 

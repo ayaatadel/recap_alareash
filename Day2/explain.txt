@@ -1,0 +1,43 @@
+=============>
+class human  ===> print data ( -- salary)
+
+     ^
+class employee  ==> print data ( .. salary)
+
+      ^
+class manager   ==> print data  (.. salary)
+
+parent::printData()
+parent ---> class that i inherit 
+$this->salary=salary;
+this---> object (current class )
+
+
+// override ===> function , signature (name, data type ,return )
+=====> implementation   ()
+
+function print ()  // void --> void
+{
+    name 
+    age 
+    address
+
+    
+
+}
+employee extend human {
+    
+}
+
+manager  extentd emplyee
+function print ()
+{
+  
+parent::print()
+echo $this->salary
+echo $this->departmanet
+
+
+}
+
+

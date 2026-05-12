@@ -1,0 +1,41 @@
+// OOP  ===> paradigm for writing code 
+// Files
+
+
+
+// =================
+
+// procedural programming  paradigm ===> writing code in a sequence of steps (functions)
+
+//OOP  ===> paradigm for writing code  ==> class , object
+
+
+// class  ===> template for creating objects (structure)
+      
+// ====  properties  ===> variables that belong to a class
+// ====  methods  ===> functions that belong to a class
+
+// object  ===> instance of a class ==> enable use class
+
+/// Access modifier  ===> public , private , protected
+
+/***
+ * public ===> can be accessed from anywhere
+ * private ===> can be accessed only within the class
+ * protected ===> can be accessed within the class and its subclasses (inheritance)
+ */
+
+/***
+ * Constructor ===> spercial method(function)--> call automatically when creating an object
+ * __construct()  ===> name of constructor
+ * constructor can have parameters (refer variables) ===> default value
+ */
+
+/**
+ * princibles of OOP
+ * Inheritance (الوراثه)====> child class inhirit parent class
+ * Encapsulation ===> (كبسوله) ==> protect data
+ * polymorphism  (overriding  (accepted), overloading (not accepted in php)) ===>
+ *  method can take many form 
+ * abstraction (الاخفاء) ===> hiddin implementation , details of class from user
+ */
