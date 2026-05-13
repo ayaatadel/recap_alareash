@@ -1,3 +1,7 @@
 ===> upload image 
 // specific type of images(.jpg,.jpeg)
 // limit size ====> 
+
+// show data of user in profile page in table
+
+// oop (create , update ,delete)
