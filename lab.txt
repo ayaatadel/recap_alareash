@@ -1,0 +1,3 @@
+===> upload image 
+// specific type of images(.jpg,.jpeg)
+// limit size ====> 
